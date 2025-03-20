@@ -19,3 +19,5 @@ if 20 >=0 and x:
 num=5
 
 print("Positive" if num>0 else "Negative")
+
+input("close terminal")
